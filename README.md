@@ -1,5 +1,7 @@
 # Scratch clone project
 
+See the project on http://scratch-clone.surge.sh
+
 To get started:
 
 - Run `npm i` to install dependencies
